@@ -11,7 +11,7 @@ JPEG compression attempts to create patterns in the color values in order to red
 
 It mimics a lower quality image, if taken from a low end camera.
 
-![](images/before.png) --> ![](images/jpegcomp_after.jpg)
+![](images/before.png) --> ![](images/jpegcompr_after.jpg)
 
 ## 2. Gausian Blur
 In image processing, a Gaussian blur (also known as Gaussian smoothing) is the result of blurring an image by a Gaussian function. It is a widely used effect in graphics software, typically to reduce image noise and reduce detail.
